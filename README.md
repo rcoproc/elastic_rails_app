@@ -6,7 +6,7 @@ Rails 5.1 and Elasticsearch 7.6.0
 
 https://iridakos.com/programming/2017/12/03/elasticsearch-and-rails-tutorial
 
-![Screenshot]()
+![Screenshot](https://github.com/rcoproc/elastic_rails_app/blob/master/app/assets/images/example.png)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
